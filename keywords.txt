@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For ULtrassom
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ultrassom	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+read	KEYWORD2
+setMaxDistance	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+ultrassom	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+TRIG	LITERAL1
+ECHO	LITERAL1
+TIMEOUT	LITERAL1
+MAX_DISTANCE	LITERAL1
